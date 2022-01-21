@@ -1,0 +1,21 @@
+.banner-bg{
+    background-color: #FEEAE9;
+}
+.main-bg{
+    background-color: #F4F4F4;
+}
+.watch-bg{
+    background-image: linear-gradient(rgb(254 192 0), #a8a85d);
+}
+.bag-bg{
+    background-image: linear-gradient(rgb(0 254 66), #468c72)
+}
+.shoe-bg{
+    background-image: linear-gradient(rgb(215 0 254), #6c5da8);
+}
+.single-category h2{
+    color: #ffffff;
+}
+.single-category img{
+    width:90px;
+}
