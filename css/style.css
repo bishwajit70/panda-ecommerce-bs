@@ -19,3 +19,12 @@
 .single-category img{
     width:90px;
 }
+.btn-bg{
+    background-color: #ffffff;
+    border-top: 0;
+}
+.buy-button{
+    background-image: linear-gradient(#FF589B, #9c2a58);
+    color: #ffffff;
+    font-weight: 600;
+}
